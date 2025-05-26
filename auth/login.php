@@ -1,2 +1,0 @@
-# Muhinzi
-auth/
