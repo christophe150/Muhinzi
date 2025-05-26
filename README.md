@@ -1,2 +1,2 @@
 # Muhinzi
-deploy
+auth/
